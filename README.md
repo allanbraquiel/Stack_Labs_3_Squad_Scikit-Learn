@@ -3,8 +3,11 @@ Stack Labs Finanças
 
 ## Pessoas
 Allan Braquiel (alnbraquiel@gmail.com)
+
 Gleidson Nunes (gdnunes.talk@gmail.com)
+
 Graciele Santos (graciele.santos@usp.br)
+
 Vinicius Garcia (viniciusdvgarcia@gmail.com)
 
 
