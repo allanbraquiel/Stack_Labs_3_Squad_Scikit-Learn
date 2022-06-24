@@ -1,6 +1,13 @@
 # Stack_Labs_3_Squad_Scikit-Learn
 Stack Labs Finanças
 
+## Pessoas
+Allan Braquiel (alnbraquiel@gmail.com)
+Gleidson Nunes (gdnunes.talk@gmail.com)
+Graciele Santos (graciele.santos@usp.br)
+Vinicius Garcia (viniciusdvgarcia@gmail.com)
+
+
 ## Preços históricos de criptomoedas
 Preços das principais criptomoedas, incluindo BTC, ETH, ADA, DOT e BNB
 
